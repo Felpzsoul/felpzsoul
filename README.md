@@ -49,8 +49,8 @@ Hello, I'm Felpzsouls, this is my GitHub profile, I'm a learning developer.
 <hr>
 
 <div align="start">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpzsouls&show_icons=true&theme=transparent">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpzsouls&show_icons=true&theme=transparent&layout=compact">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpzsoul&show_icons=true&theme=transparent">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpzsoul&show_icons=true&theme=transparent&layout=compact">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=023e8a&height=120&section=footer"/>
